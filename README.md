@@ -1,14 +1,15 @@
 # GDI+ Zusammenfassung
-In dieser Readme.md soll zusammengefasst werden, was man für die Arbeit mit GDI+ kennen sollte.  Sie dürfen die gesamte Datei verändern (Sie dürfen alle vorhandenen Text entfernen). **Schaffen Sie eine gute Lerngrundlage bzw. ein Nachschlagewerk z.B. für die Vorbereitung auf die Abschlussprüfung :)!**
+In dieser Readme.md soll zusammengefasst werden, was man für die Arbeit mit GDI+ kennen sollte.  Sie dürfen die gesamte Datei verändern (Sie dürfen alle vorhandenen Text entfernen). 
+**Schaffen Sie eine gute Lerngrundlage bzw. ein Nachschlagewerk z.B. für die Vorbereitung auf die Abschlussprüfung :)!**
 
 
-#:dart: Ziele:
-## für das Endprodukt
+:dart: #Ziele:
+### für das Endprodukt
 - prägnante und eindeutige Zusammenfassung der wichtigsten Kenntnisse für GDI+, z.B. wie man ein GDI+-Projekt erstellt, wie man Dinge zeichnet, was ein Paint-Ereignis ist
 - Hilfe für häufige Fehler bzw. Fehldarstellungen wie Verzerren, Flackern, fehlende Skalierbarkeit
 - wichtige Bausteine für GDI+ wie z.B. User Controls (Was ist das? Wie erstellt und nutzt man diese?), Umgang mit Mouseclick und Timer, ...
 - Guter Überblick über behandelte Themen z.B. druch ein Inhaltsverzeichnis
-## beim Erstellen:
+### beim Erstellen:
 - Programmieralltag simulieren
   - **nicht** im Browser arbeiten
   - Clonen Sie das Repo (url ist in der Adressezeile) und arbeiten Sie lokal
