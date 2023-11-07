@@ -9,6 +9,7 @@ In dieser Readme.md soll zusammengefasst werden, was man für die Arbeit mit GDI
 - Hilfe für häufige Fehler bzw. Fehldarstellungen wie Verzerren, Flackern, fehlende Skalierbarkeit
 - wichtige Bausteine für GDI+ wie z.B. User Controls (Was ist das? Wie erstellt und nutzt man diese?), Umgang mit Mouseclick und Timer, ...
 - Guter Überblick über behandelte Themen z.B. druch ein Inhaltsverzeichnis
+  
 **beim Erstellen:**
 - Programmieralltag simulieren
   - **nicht** im Browser arbeiten
